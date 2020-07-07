@@ -3,6 +3,8 @@
 * Playlist: http://freeview.github.io/iptv/playlist/tv.m3u
 * EPG: http://freeview.mywire.org:9090/tv.xml.gz
 
+See complete channels list [here](https://github.com/freeview/iptv/blob/master/channels.md)
+
 For questions please write to our Telegram https://t.me/helpfreeview or email to help.freeview@gmail.com 
 
 Donate to our cause! (PayPal only) 
