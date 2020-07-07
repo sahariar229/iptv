@@ -42,4 +42,4 @@
 |RedBull TV|Y|
 |RTM Sports HD|Y|
 
-* [Frevieew plans and update](https://trello.com/b/Tvem1YJd/malaysia-freeview-iptv)
+* [Freeview plans and update](https://trello.com/b/Tvem1YJd/malaysia-freeview-iptv)
