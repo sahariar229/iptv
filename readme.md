@@ -9,4 +9,4 @@ For questions please write to our Telegram https://t.me/helpfreeview or email to
 
 Donate to our cause! (PayPal only) 
 
-[<img src="https://freeview.github.io/logos/misc/ggf.png" width="150">](http://git.io/freeview)
+[<img src="https://freeview.github.io/logos/misc/ggf.png" width="150">](https://gogetfunding.com/freeview)
