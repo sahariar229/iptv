@@ -1,4 +1,8 @@
-## Channels list as of 7 July 2020
+---
+title: Channel list
+---
+
+## Channel list as of 7 July 2020
 
 |Channel name|EPG|
 |-|-|
