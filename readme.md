@@ -1,12 +1,15 @@
-# Malaysia Freeview IPTV free-to-air channels playlist
-### [Homepage](http://freeview.github.io/iptv)
+### [Malaysia Freeview IPTV free-to-air channels playlist](http://freeview.github.io/iptv)
 
-* Playlist: http://freeview.github.io/iptv/playlist/tv.m3u
-* EPG: *Removed*
+[Homepage] | [Channels list](https://github.com/freeview/iptv/blob/master/channels/channels.md) | [Plans](https://trello.com/b/Tvem1YJd/malaysia-freeview-iptv)
 
-See complete [channels list](https://github.com/freeview/iptv/blob/master/channels/channels.md) and [our plans](https://trello.com/b/Tvem1YJd/malaysia-freeview-iptv)
+| |Links|
+|-|-|
+|Playlist|`http://freeview.github.io/iptv/playlist/tv.m3u`|
+|EPG|*Removed due to abuse*|
 
-For questions please write to our Telegram https://t.me/helpfreeview or email to help.freeview@gmail.com 
+Contact:
+* https://t.me/helpfreeview
+* help.freeview@gmail.com 
 
 Donate to our cause! (PayPal only) 
 
