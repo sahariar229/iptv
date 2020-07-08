@@ -45,5 +45,3 @@ title: Channel list
 |CONtv|N|
 |RedBull TV|Y|
 |RTM Sports HD|Y|
-
-* [Freeview plans and update](https://trello.com/b/Tvem1YJd/malaysia-freeview-iptv)
