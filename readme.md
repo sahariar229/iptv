@@ -4,7 +4,7 @@
 * Playlist: http://freeview.github.io/iptv/playlist/tv.m3u
 * EPG: *Removed*
 
-See complete channels list [here](https://github.com/freeview/iptv/blob/master/channels/channels.md)
+See complete [channels list](https://github.com/freeview/iptv/blob/master/channels/channels.md) and [our plans](https://trello.com/b/Tvem1YJd/malaysia-freeview-iptv)
 
 For questions please write to our Telegram https://t.me/helpfreeview or email to help.freeview@gmail.com 
 
