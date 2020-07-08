@@ -1,6 +1,6 @@
 ### [Malaysia Freeview IPTV free-to-air channels playlist](http://freeview.github.io/iptv)
 
-[Channels list](https://github.com/freeview/iptv/blob/master/channels/channels.md) | [Plans](https://trello.com/b/Tvem1YJd/malaysia-freeview-iptv)
+[Channels list](https://freeview.github.io/iptv/channels.html) | [Plans](https://trello.com/b/Tvem1YJd/malaysia-freeview-iptv)
 
 | |Links|
 |-|-|
@@ -8,8 +8,8 @@
 |EPG|*Removed due to abuse*|
 
 Contact:
-* https://t.me/helpfreeview
-* help.freeview@gmail.com 
+* `https://t.me/helpfreeview`
+* `help.freeview@gmail.com`
 
 Donate to our cause! (PayPal only) 
 
