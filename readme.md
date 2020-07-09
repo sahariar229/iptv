@@ -5,7 +5,7 @@
 | |Links|
 |-|-|
 |Playlist|`http://freeview.github.io/iptv/playlist/tv.m3u`|
-|EPG|*Removed due to abuse*|
+|EPG|*Due to abuse, only donators have access to EPG*|
 
 Contact:
 * `https://t.me/helpfreeview`
