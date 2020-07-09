@@ -1,43 +1,24 @@
 ### Channel list as of 7 July 2020
 
-|Channel name|EPG|
-|-|-|
-|TV1|Y|
-|TV2|Y|
-|TV3|Y|
-|NTV7|Y|
-|8TV|Y|
-|TV9|Y|
-|Drama Sangat|Y|
-|OKEY|Y|
-|Naura|Y|
-|TVIKIM|N|
-|Astro Go Shop |Y|
-|Channel 5 |Y|
-|Channel 8 |Y|
-|Channel U |Y|
-|Suria |Y|
-|Vasantham |Y|
-|RTB Sukmaindera|N|
-|CBeebies|Y|
-|Kabillion|N|
-|Astro Awani |Y|
-|BERNAMA |Y|
-|Berita RTM|Y|
-|Channel NewsAsia |Y|
-|Al Jazeera|Y|
-|Arirang TV|Y|
-|Bloomberg |Y|
-|CGTN|Y|
-|DW|Y|
-|France24|Y|
-|NHK World Japan|Y|
-|RT|Y|
-|Sky News|Y|
-|TRT World|Y|
-|CGTN Documentary|N|
-|NASA TV|Y|
-|Comedy Central|N|
-|CONtv|N|
-|RedBull TV|Y|
-|RTM Sports HD|Y|
+|Channel|EPG|Channel|EPG|
+|-|-|-|-|
+|TV1|Y|BERNAMA|Y|
+|TV2|Y|Berita RTM|Y|
+|TV3|Y|Channel NewsAsia|Y|
+|NTV7|Y|Al Jazeera|Y|
+|8TV|Y|Arirang TV|Y|
+|TV9|Y|Bloomberg|Y|
+|Drama Sangat|Y|CGTN|Y|
+|OKEY|Y|DW|Y|
+|Naura|Y|France24|Y|
+|TVIKIM|N|NHK World Japan|Y|
+|Astro Go Shop|Y|RT|Y|
+|Channel 5|Y|Sky News|Y|
+|Channel 8|Y|TRT World|Y|
+|Channel U|Y|CGTN Documentary|N|
+|Suria|Y|NASA TV|Y|
+|Vasantham|Y|Comedy Central|N|
+|RTB Sukmaindera|N|	CONtv|N|
+|CBeebies|Y|RedBull TV|Y|
+|Kabillion|N|RTM Sports HD|Y|
+|Astro Awani|Y|	
