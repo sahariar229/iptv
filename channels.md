@@ -1,8 +1,8 @@
 ### Channel list as of 7 July 2020
 
-|Channel|EPG|Channel|EPG|
-|-|-|-|-|
-|TV1|Y|BERNAMA|Y|
+|Channel|EPG|Channel|EPG|Channel|EPG|
+|-|-|-|-|-|-|
+|TV1|Y|BERNAMA|Y|ABC Australia|Y|
 |TV2|Y|Berita RTM|Y|
 |TV3|Y|Channel NewsAsia|Y|
 |NTV7|Y|Al Jazeera|Y|
