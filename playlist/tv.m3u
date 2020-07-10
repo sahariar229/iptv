@@ -34,7 +34,8 @@ http://freeview.mywire.org:9090/streams/tvikim.m3u8
 http://freeview.mywire.org:9090/streams/goshop.m3u8
 
 #EXTINF:-1 group-title="Singapore" tvg-logo="https://freeview.github.io/logos/channel-5.png",Channel 5 
-http://freeview.mywire.org:9090/streams/ch5.m3u8
+https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
+# http://freeview.mywire.org:9090/streams/ch5.m3u8
 
 #EXTINF:-1 group-title="Singapore" tvg-logo="https://freeview.github.io/logos/channel-8.png",Channel 8 
 http://freeview.mywire.org:9090/streams/ch8.m3u8
