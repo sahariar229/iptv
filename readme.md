@@ -1,6 +1,8 @@
-### [Malaysia Freeview IPTV free-to-air channels playlist](http://freeview.github.io/iptv)
+[Home](https://freeview.github.io/iptv) | [Channels list](https://freeview.github.io/iptv/channels.html) | [Plans](https://trello.com/b/Tvem1YJd/malaysia-freeview-iptv)
 
-[Channels list](https://freeview.github.io/iptv/channels.html) | [Plans](https://trello.com/b/Tvem1YJd/malaysia-freeview-iptv)
+### Home
+
+With more than 35,000 requests from more than 5,000 visitors per day, this playlist is the most popular free-to-air Malaysian TV channels for Android TV
 
 | |Links|
 |-|-|
