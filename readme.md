@@ -6,7 +6,7 @@ With more than 35,000 requests from more than 5,000 visitors per day, this playl
 
 | |Links|
 |-|-|
-|Playlist|`http://freeview.github.io/iptv/playlist/tv.m3u`|
+|Playlist|`https://freeview.github.io/iptv/playlist/tv.m3u`|
 |EPG|*Due to abuse, only donators have access to EPG*|
 
 Contact:
