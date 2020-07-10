@@ -10,9 +10,9 @@
 |TV9|Y|Bloomberg|Y|
 |Drama Sangat|Y|CGTN|Y|
 |OKEY|Y|DW|Y|
-|Naura|Y|France24|Y|
+|~~Naura~~|Y|France24|Y|
 |TVIKIM|N|NHK World Japan|Y|
-|Astro Go Shop|Y|RT|Y|
+|~~Astro Go Shop~~|Y|RT|Y|
 |Channel 5|Y|Sky News|Y|
 |Channel 8|Y|TRT World|Y|
 |Channel U|Y|CGTN Documentary|N|
