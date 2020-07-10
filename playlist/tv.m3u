@@ -112,6 +112,9 @@ http://freeview.mywire.org:9090/streams/comedy.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://freeview.github.io/logos/contv.png",CONtv
 http://freeview.mywire.org:9090/streams/contv.m3u8
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://freeview.github.io/logos/xtra.png",beIN SPORTS XTRA
+http://freeview.mywire.org:9090/streams/xtra.m3u8
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://freeview.github.io/logos/redbulltv.png",RedBull TV
 http://freeview.mywire.org:9090/streams/rbtv.m3u8
 
