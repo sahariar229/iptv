@@ -115,8 +115,8 @@ http://freeview.mywire.org:9090/streams/comedy.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://freeview.github.io/logos/contv.png",CONtv
 http://freeview.mywire.org:9090/streams/contv.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://freeview.github.io/logos/outside.png",Outside TV
-http://freeview.mywire.org:9090/streams/outside.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://freeview.github.io/logos/tastemade.png",Tastemade
+http://freeview.mywire.org:9090/streams/tastemade.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://freeview.github.io/logos/people.png",PeopleTV
 http://freeview.mywire.org:9090/streams/people.m3u8
@@ -124,11 +124,17 @@ http://freeview.mywire.org:9090/streams/people.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://freeview.github.io/logos/xtra.png",beIN SPORTS XTRA
 http://freeview.mywire.org:9090/streams/xtra.m3u8
 
-# #EXTINF:-1 group-title="Sports" tvg-logo="",Olympic Channel
-# Placeholder
+#EXTINF:-1 group-title="Sports" tvg-logo="https://freeview.github.io/logos/olympic.png",Olympic Channel
+http://freeview.mywire.org:9090/streams/oc1.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://freeview.github.io/logos/outside.png",Outside TV
+http://freeview.mywire.org:9090/streams/outside.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://freeview.github.io/logos/racing.png",Racing.com
 http://freeview.mywire.org:9090/streams/racing.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://freeview.github.io/logos/realmadrid.png",Real Madrid TV
+http://freeview.mywire.org:9090/streams/rm.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://freeview.github.io/logos/redbulltv.png",RedBull TV
 http://freeview.mywire.org:9090/streams/rbtv.m3u8
