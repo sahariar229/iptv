@@ -1,11 +1,15 @@
-### Channel list as of 7 July 2020
+[Home](https://freeview.github.io/iptv) | [Channels list](https://freeview.github.io/iptv/channels.html) | [Plans](https://trello.com/b/Tvem1YJd/malaysia-freeview-iptv) | [Contact us](https://t.me/helpfreeview)
+
+### Channels list
+
+as of 11 July 2020
 
 |Channel|EPG|Channel|EPG|Channel|EPG|
 |-|-|-|-|-|-|
 |TV1|Y|BERNAMA|Y|ABC Australia|Y|
 |TV2|Y|Berita RTM|Y|PeopleTV|N|
 |TV3|Y|Channel NewsAsia|Y|Outside TV|Y|
-|NTV7|Y|Al Jazeera|Y|Racing|Y|
+|NTV7|Y|Al Jazeera|Y|Racing.com|N|
 |8TV|Y|Arirang TV|Y|
 |TV9|Y|Bloomberg|Y|
 |Drama Sangat|Y|CGTN|Y|
