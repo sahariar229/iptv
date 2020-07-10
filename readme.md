@@ -2,7 +2,7 @@
 
 ### Home
 
-With more than 35,000 requests from more than 5,000 visitors per day, this playlist is the most popular free Android TV IPTV playlist for free-to-air Malaysian TV channels
+With 35,000 requests from more than 5,000 visitors per day, this playlist is the most popular free Android TV IPTV playlist for free-to-air Malaysian TV channels
 
 | |Links|
 |-|-|
