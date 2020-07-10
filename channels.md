@@ -5,8 +5,8 @@
 |TV1|Y|BERNAMA|Y|ABC Australia|Y|
 |TV2|Y|Berita RTM|Y|PeopleTV|N|
 |TV3|Y|Channel NewsAsia|Y|Outside TV|Y|
-|NTV7|Y|Al Jazeera|Y|Outside TV|Y|
-|8TV|Y|Arirang TV|Y|Racing|Y|
+|NTV7|Y|Al Jazeera|Y|Racing|Y|
+|8TV|Y|Arirang TV|Y|
 |TV9|Y|Bloomberg|Y|
 |Drama Sangat|Y|CGTN|Y|
 |OKEY|Y|DW|Y|
