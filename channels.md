@@ -21,4 +21,4 @@
 |RTB Sukmaindera|N|	CONtv|N|
 |CBeebies|Y|RedBull TV|Y|
 |Kabillion|N|RTM Sports HD|Y|
-|Astro Awani|Y|	
+|Astro Awani|Y|beIN SPORTS XTRA|Y|
