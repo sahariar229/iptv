@@ -10,9 +10,9 @@ as of 11 July 2020
 |TV2|Y|Berita RTM|Y|PeopleTV|N|
 |TV3|Y|Channel NewsAsia|Y|Outside TV|Y|
 |NTV7|Y|Al Jazeera|Y|Racing.com|N|
-|8TV|Y|Arirang TV|Y|
-|TV9|Y|Bloomberg|Y|
-|Drama Sangat|Y|CGTN|Y|
+|8TV|Y|Arirang TV|Y|Tastemade|N|
+|TV9|Y|Bloomberg|Y|Olympic Channel|Y|
+|Drama Sangat|Y|CGTN|Y|Real Madrid TV|N|
 |OKEY|Y|DW|Y|
 |~~Naura~~|Y|France24|Y|
 |TVIKIM|N|NHK World Japan|Y|
