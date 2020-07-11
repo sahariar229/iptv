@@ -9,7 +9,7 @@ as of 11 July 2020
 |TV1|Y|BERNAMA|Y|ABC Australia|Y|
 |TV2|Y|Berita RTM|Y|PeopleTV|N|
 |TV3|Y|Channel NewsAsia|Y|Outside TV|Y|
-|NTV7|Y|Al Jazeera|Y|Racing.com|N|
+|NTV7|Y|Al Jazeera|Y|Tennis Channel|Y|
 |8TV|Y|Arirang TV|Y|~~Tastemade~~|N|
 |TV9|Y|Bloomberg|Y|Olympic Channel|Y|
 |Drama Sangat|Y|CGTN|Y|Real Madrid TV|N|
