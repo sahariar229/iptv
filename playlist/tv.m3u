@@ -97,6 +97,9 @@ http://freeview.mywire.org:9090/streams/france24.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://freeview.github.io/logos/nhkworldjp.png",NHK World Japan
 http://freeview.mywire.org:9090/streams/nhkwjp.m3u8
 
+#EXTINF:-1 group-title="Kids" tvg-logo="https://freeview.github.io/logos/pbs.png",PBS 
+http://freeview.mywire.org:9090/streams/pbs.m3u8
+
 #EXTINF:-1 group-title="News" tvg-logo="https://freeview.github.io/logos/rt.png",RT
 http://freeview.mywire.org:9090/streams/rt.m3u8
 
