@@ -14,7 +14,7 @@ as of 11 July 2020
 |TV9|Y|Bloomberg|Y|Olympic Channel|Y|
 |Drama Sangat|Y|CGTN|Y|Real Madrid TV|N|
 |OKEY|Y|DW|Y|PBS Kids|Y|
-|~~Naura~~|Y|France24|Y|
+|~~Naura~~|Y|France24|Y|PBS|Y|
 |TVIKIM|N|NHK World Japan|Y|
 |~~Astro Go Shop~~|Y|RT|Y|
 |Channel 5|Y|Sky News|Y|
