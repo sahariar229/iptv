@@ -133,9 +133,6 @@ http://freeview.mywire.org:9090/streams/oc1.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://freeview.github.io/logos/outside.png",Outside TV
 http://freeview.mywire.org:9090/streams/outside.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://freeview.github.io/logos/racing.png",Racing.com
-http://freeview.mywire.org:9090/streams/racing.m3u8
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://freeview.github.io/logos/realmadrid.png",Real Madrid TV
 http://freeview.mywire.org:9090/streams/rm.m3u8
 
@@ -144,3 +141,6 @@ http://freeview.mywire.org:9090/streams/rbtv.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://freeview.github.io/logos/rtmhdsports.png",RTM Sports HD
 http://freeview.mywire.org:9090/streams/rtmsports.m3u8|Referer=https://myklik.rtm.gov.my
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://freeview.github.io/logos/tennis.png",Tennis Channel
+http://freeview.mywire.org:9090/streams/tennis.m3u8
