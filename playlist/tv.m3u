@@ -73,15 +73,6 @@ http://freeview.mywire.org:9090/streams/bes.m3u8|Referer=https://myklik.rtm.gov.
 #EXTINF:-1 group-title="News" tvg-logo="https://freeview.github.io/logos/channel-newsasia.png",Channel NewsAsia 
 http://freeview.mywire.org:9090/streams/cna.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://freeview.github.io/logos/abcau.png",ABC Australia
-http://freeview.mywire.org:9090/streams/abcau.m3u8
-
-#EXTINF:-1 group-title="News" tvg-logo="https://freeview.github.io/logos/aljazeera.png",Al Jazeera
-http://freeview.mywire.org:9090/streams/aljazeera.m3u8
-
-#EXTINF:-1 group-title="News" tvg-logo="https://freeview.github.io/logos/arirang.png",Arirang TV
-http://freeview.mywire.org:9090/streams/arirang.m3u8
-
 #EXTINF:-1 group-title="News" tvg-logo="https://freeview.github.io/logos/bloomberg.png",Bloomberg 
 http://freeview.mywire.org:9090/streams/bloomberg.m3u8
 
@@ -94,12 +85,6 @@ http://freeview.mywire.org:9090/streams/dw.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://freeview.github.io/logos/france24.png",France24
 http://freeview.mywire.org:9090/streams/france24.m3u8
 
-#EXTINF:-1 group-title="News" tvg-logo="https://freeview.github.io/logos/nhkworldjp.png",NHK World Japan
-http://freeview.mywire.org:9090/streams/nhkwjp.m3u8
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://freeview.github.io/logos/pbs.png",PBS 
-http://freeview.mywire.org:9090/streams/pbs.m3u8
-
 #EXTINF:-1 group-title="News" tvg-logo="https://freeview.github.io/logos/rt.png",RT
 http://freeview.mywire.org:9090/streams/rt.m3u8
 
@@ -108,6 +93,21 @@ http://freeview.mywire.org:9090/streams/skynews.m3u8|Referer=https://www.youtube
 
 #EXTINF:-1 group-title="News" tvg-logo="https://freeview.github.io/logos/trtworld.png",TRT World
 http://freeview.mywire.org:9090/streams/trt.m3u8
+
+#EXTINF:-1 group-title="International" tvg-logo="https://freeview.github.io/logos/abcau.png",ABC Australia
+http://freeview.mywire.org:9090/streams/abcau.m3u8
+
+#EXTINF:-1 group-title="International" tvg-logo="https://freeview.github.io/logos/aljazeera.png",Al Jazeera
+http://freeview.mywire.org:9090/streams/aljazeera.m3u8
+
+#EXTINF:-1 group-title="International" tvg-logo="https://freeview.github.io/logos/arirang.png",Arirang TV
+http://freeview.mywire.org:9090/streams/arirang.m3u8
+
+#EXTINF:-1 group-title="International" tvg-logo="https://freeview.github.io/logos/nhkworldjp.png",NHK World Japan
+http://freeview.mywire.org:9090/streams/nhkwjp.m3u8
+
+#EXTINF:-1 group-title="International" tvg-logo="https://freeview.github.io/logos/pbs.png",PBS 
+http://freeview.mywire.org:9090/streams/pbs.m3u8
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://freeview.github.io/logos/cgtndoc.png",CGTN Documentary
 http://freeview.mywire.org:9090/streams/cgtndoc.m3u8
@@ -120,9 +120,6 @@ http://freeview.mywire.org:9090/streams/comedy.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://freeview.github.io/logos/contv.png",CONtv
 http://freeview.mywire.org:9090/streams/contv.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://freeview.github.io/logos/tastemade.png",Tastemade
-http://freeview.mywire.org:9090/streams/tastemade.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://freeview.github.io/logos/people.png",PeopleTV
 http://freeview.mywire.org:9090/streams/people.m3u8
