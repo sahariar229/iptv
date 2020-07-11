@@ -58,6 +58,9 @@ http://freeview.mywire.org:9090/streams/cbeebies.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://freeview.github.io/logos/kabilion.png",Kabillion
 http://freeview.mywire.org:9090/streams/kabillion.m3u8
 
+#EXTINF:-1 group-title="Kids" tvg-logo="https://freeview.github.io/logos/pbskids.png",PBS Kids
+http://freeview.mywire.org:9090/streams/pbskids.m3u8
+
 #EXTINF:-1 group-title="News" tvg-logo="https://freeview.github.io/logos/awani.png",Astro Awani 
 http://freeview.mywire.org:9090/streams/awani.m3u8
 
@@ -69,6 +72,9 @@ http://freeview.mywire.org:9090/streams/bes.m3u8|Referer=https://myklik.rtm.gov.
 
 #EXTINF:-1 group-title="News" tvg-logo="https://freeview.github.io/logos/channel-newsasia.png",Channel NewsAsia 
 http://freeview.mywire.org:9090/streams/cna.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://freeview.github.io/logos/abcau.png",ABC Australia
+http://freeview.mywire.org:9090/streams/abcau.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://freeview.github.io/logos/aljazeera.png",Al Jazeera
 http://freeview.mywire.org:9090/streams/aljazeera.m3u8
@@ -105,9 +111,6 @@ http://freeview.mywire.org:9090/streams/cgtndoc.m3u8
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://freeview.github.io/logos/nasa.png",NASA TV
 http://freeview.mywire.org:9090/streams/nasatv.m3u8|Referer=https://www.nasa.gov
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://freeview.github.io/logos/abcau.png",ABC Australia
-http://freeview.mywire.org:9090/streams/abcau.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://freeview.github.io/logos/comedycentral.png",Comedy Central
 http://freeview.mywire.org:9090/streams/comedy.m3u8
