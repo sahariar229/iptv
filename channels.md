@@ -21,7 +21,7 @@ as of 11 July 2020
 |Channel 8|Y|TRT World|Y|
 |Channel U|Y|CGTN Documentary|N|
 |Suria|Y|NASA TV|Y|
-|Vasantham|Y|Comedy Central|N|
+|Vasantham|Y|Comedy Central|Y|
 |RTB Sukmaindera|N|	CONtv|N|
 |CBeebies|Y|RedBull TV|Y|
 |Kabillion|N|RTM Sports HD|Y|
