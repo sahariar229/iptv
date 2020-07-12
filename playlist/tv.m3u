@@ -27,7 +27,7 @@ http://freeview.mywire.org:9090/streams/okey.m3u8|Referer=https://myklik.rtm.gov
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://freeview.github.io/logos/naura.png",Naura
 http://freeview.mywire.org:9090/streams/naura.m3u8
 
-#EXTINF:-1 group-title="Malaysia" tvg-logo="https://freeview.github.io/logos/hello.png",Naura
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://freeview.github.io/logos/hello.png",Hello
 http://freeview.mywire.org:9090/streams/hello.m3u8
 
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://freeview.github.io/logos/ikim.png",TVIKIM
